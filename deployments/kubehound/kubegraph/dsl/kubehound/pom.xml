@@ -32,7 +32,7 @@ limitations under the License.
         <dependency>
             <groupId>org.apache.tinkerpop</groupId>
             <artifactId>tinkergraph-gremlin</artifactId>
-            <version>3.6.2</version>
+            <version>3.7.1</version>
         </dependency>
         <dependency>
             <groupId>org.apache.tinkerpop</groupId>
